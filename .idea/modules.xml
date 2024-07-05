@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Keyclock.iml" filepath="$PROJECT_DIR$/.idea/Keyclock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Keyclock/Keyclock.iml" filepath="$PROJECT_DIR$/Keyclock/Keyclock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Spring-boot-3-Keycloak-integration.iml" filepath="$PROJECT_DIR$/.idea/Spring-boot-3-Keycloak-integration.iml" />
     </modules>
   </component>
 </project>
