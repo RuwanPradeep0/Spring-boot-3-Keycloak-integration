@@ -61,4 +61,4 @@ Please make sure to update tests as appropriate.
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details![image](https://github.com/RuwanPradeep0/Spring-boot-3-Keycloak-integration/assets/140706867/946308c3-0927-4494-8276-2b88941062f8)
+This project is licensed under the MIT License
